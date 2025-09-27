@@ -1,0 +1,10 @@
+serenity-springs-resort/
+│
+├── index.html          # Main homepage
+├── styles.css          # CSS styles
+├── script.js           # JavaScript (optional)
+├── images/             # Folder for images
+│   ├── hero-bg.jpg
+│   ├── room-1.jpg
+│   └── ...
+└── README.md           # Project description
